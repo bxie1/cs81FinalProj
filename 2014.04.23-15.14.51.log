@@ -1,0 +1,39 @@
+Log opened: 2014.04.23-15.14.51
+Experiment name: balLog
+User: tzon1
+Epoch # 0 TSS ERROR: 78.0287844151 Correct: 647 Total Count: 1000 %correct = 0.647
+Epoch # 1 TSS ERROR: 34.5174574033 Correct: 845 Total Count: 1000 %correct = 0.845
+Epoch # 2 TSS ERROR: 37.8183566275 Correct: 839 Total Count: 1000 %correct = 0.839
+Epoch # 3 TSS ERROR: 12.7923148798 Correct: 914 Total Count: 1000 %correct = 0.914
+Epoch # 4 TSS ERROR: 25.4423208668 Correct: 885 Total Count: 1000 %correct = 0.885
+Epoch # 5 TSS ERROR: 14.6822995366 Correct: 920 Total Count: 1000 %correct = 0.92
+Epoch # 6 TSS ERROR: 9.03318277153 Correct: 922 Total Count: 1000 %correct = 0.922
+Epoch # 7 TSS ERROR: 14.5745895235 Correct: 912 Total Count: 1000 %correct = 0.912
+Epoch # 8 TSS ERROR: 6.83633983296 Correct: 939 Total Count: 1000 %correct = 0.939
+Epoch # 9 TSS ERROR: 12.7674383166 Correct: 935 Total Count: 1000 %correct = 0.935
+Epoch # 10 TSS ERROR: 18.8394021024 Correct: 927 Total Count: 1000 %correct = 0.927
+Epoch # 11 TSS ERROR: 8.19914396713 Correct: 935 Total Count: 1000 %correct = 0.935
+Epoch # 12 TSS ERROR: 6.9123453097 Correct: 943 Total Count: 1000 %correct = 0.943
+Epoch # 13 TSS ERROR: 7.53259937504 Correct: 955 Total Count: 1000 %correct = 0.955
+Epoch # 14 TSS ERROR: 9.17576416394 Correct: 943 Total Count: 1000 %correct = 0.943
+Epoch # 15 TSS ERROR: 5.77115575073 Correct: 958 Total Count: 1000 %correct = 0.958
+Epoch # 16 TSS ERROR: 10.8633882014 Correct: 932 Total Count: 1000 %correct = 0.932
+Epoch # 17 TSS ERROR: 6.18358425445 Correct: 957 Total Count: 1000 %correct = 0.957
+Epoch # 18 TSS ERROR: 7.22624721309 Correct: 951 Total Count: 1000 %correct = 0.951
+Epoch # 19 TSS ERROR: 4.34320152853 Correct: 970 Total Count: 1000 %correct = 0.97
+Epoch # 20 TSS ERROR: 6.36845624625 Correct: 960 Total Count: 1000 %correct = 0.96
+Epoch # 21 TSS ERROR: 11.8882390765 Correct: 937 Total Count: 1000 %correct = 0.937
+Epoch # 22 TSS ERROR: 7.09024171596 Correct: 945 Total Count: 1000 %correct = 0.945
+Epoch # 23 TSS ERROR: 3.73465836785 Correct: 967 Total Count: 1000 %correct = 0.967
+Epoch # 24 TSS ERROR: 4.34129502797 Correct: 972 Total Count: 1000 %correct = 0.972
+Epoch # 25 TSS ERROR: 0.928626637394 Correct: 991 Total Count: 1000 %correct = 0.991
+Epoch # 26 TSS ERROR: 1.49744334811 Correct: 986 Total Count: 1000 %correct = 0.986
+Epoch # 27 TSS ERROR: 3.79732205255 Correct: 975 Total Count: 1000 %correct = 0.975
+Epoch # 28 TSS ERROR: 3.81914840224 Correct: 970 Total Count: 1000 %correct = 0.97
+Epoch # 29 TSS ERROR: 6.68920064364 Correct: 945 Total Count: 1000 %correct = 0.945
+Epoch # 30 TSS ERROR: 2.18533227396 Correct: 974 Total Count: 1000 %correct = 0.974
+Epoch # 31 TSS ERROR: 4.16539878594 Correct: 959 Total Count: 1000 %correct = 0.959
+Epoch # 32 TSS ERROR: 1.62532271235 Correct: 983 Total Count: 1000 %correct = 0.983
+Epoch # 33 TSS ERROR: 0.213618294501 Correct: 996 Total Count: 1000 %correct = 0.996
+Epoch # 34 TSS ERROR: 0.0930126918581 Correct: 998 Total Count: 1000 %correct = 0.998
+Epoch # 35 TSS ERROR: 0.0292764009155 Correct: 1000 Total Count: 1000 %correct = 1.0

@@ -1,0 +1,18 @@
+4/22/14 Tuesday
+
+Added "torque" to the simulation. Now the farthest weights have exert more torque.
+Added 3 output possibilities: 0, .5, 1; .5 means balanced. 0 is the left heavier. 1 is the right heavier.
+
+Backlog of todos --
+	Organize the training set data into several categories.
+	Use NEAT. -- necessary?
+	
+POA for organizing the training set data into different classification problems;
+
+1. Balanced: for every balanced problem, add it to a list of balanced probs
+	figure out the percent correct of the balanced problems
+	
+
+4/25
+Removing sweep;
+Need to reimplement the shuffling
