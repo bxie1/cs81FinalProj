@@ -116,9 +116,9 @@ def main():
 
 #have it return a string, representing an easy problem    
 def generateEasy():
-  choice = randint(0,2)  
-  if choice == 0 or choice == 1:
-    return weightProblem() #balanceProblem()
+  choice = randint(0,1)  
+  if choice == 0:
+    return balanceProblem()
   else:
     return weightProblem()
   
