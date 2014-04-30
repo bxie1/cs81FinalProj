@@ -1,0 +1,28 @@
+Log opened: 2014.04.27-17.43.05
+Experiment name: balLog
+User: tzon1
+Epoch # 0 TSS ERROR: 346.226852608 Correct: 1196 Total Count: 3000 %correct = 0.398666666667
+Epoch # 1 TSS ERROR: 226.136357617 Correct: 2005 Total Count: 3000 %correct = 0.668333333333
+Epoch # 2 TSS ERROR: 138.949115272 Correct: 2413 Total Count: 3000 %correct = 0.804333333333
+Epoch # 3 TSS ERROR: 131.180518362 Correct: 2508 Total Count: 3000 %correct = 0.836
+Epoch # 4 TSS ERROR: 149.194628157 Correct: 2420 Total Count: 3000 %correct = 0.806666666667
+Epoch # 5 TSS ERROR: 100.207495696 Correct: 2594 Total Count: 3000 %correct = 0.864666666667
+Epoch # 6 TSS ERROR: 128.635654181 Correct: 2513 Total Count: 3000 %correct = 0.837666666667
+Epoch # 7 TSS ERROR: 84.2277605088 Correct: 2648 Total Count: 3000 %correct = 0.882666666667
+Epoch # 8 TSS ERROR: 110.968740805 Correct: 2625 Total Count: 3000 %correct = 0.875
+Epoch # 9 TSS ERROR: 106.502544443 Correct: 2666 Total Count: 3000 %correct = 0.888666666667
+Epoch # 10 TSS ERROR: 70.8399665596 Correct: 2756 Total Count: 3000 %correct = 0.918666666667
+Epoch # 11 TSS ERROR: 91.5216457623 Correct: 2693 Total Count: 3000 %correct = 0.897666666667
+Epoch # 12 TSS ERROR: 88.5774232107 Correct: 2731 Total Count: 3000 %correct = 0.910333333333
+Epoch # 13 TSS ERROR: 43.3762807046 Correct: 2886 Total Count: 3000 %correct = 0.962
+Epoch # 14 TSS ERROR: 36.8859714376 Correct: 2894 Total Count: 3000 %correct = 0.964666666667
+Epoch # 15 TSS ERROR: 51.5275630836 Correct: 2873 Total Count: 3000 %correct = 0.957666666667
+Epoch # 16 TSS ERROR: 24.0716939135 Correct: 2913 Total Count: 3000 %correct = 0.971
+Epoch # 17 TSS ERROR: 42.6000632943 Correct: 2903 Total Count: 3000 %correct = 0.967666666667
+Epoch # 18 TSS ERROR: 43.6274459056 Correct: 2877 Total Count: 3000 %correct = 0.959
+Epoch # 19 TSS ERROR: 81.7794651992 Correct: 2775 Total Count: 3000 %correct = 0.925
+Epoch # 20 TSS ERROR: 59.7108358023 Correct: 2791 Total Count: 3000 %correct = 0.930333333333
+Epoch # 21 TSS ERROR: 51.3179261406 Correct: 2857 Total Count: 3000 %correct = 0.952333333333
+Epoch # 22 TSS ERROR: 46.6899054873 Correct: 2888 Total Count: 3000 %correct = 0.962666666667
+Epoch # 23 TSS ERROR: 2.6586151788 Correct: 2984 Total Count: 3000 %correct = 0.994666666667
+Epoch # 24 TSS ERROR: 0.297295768566 Correct: 3000 Total Count: 3000 %correct = 1.0

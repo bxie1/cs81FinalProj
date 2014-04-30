@@ -116,15 +116,15 @@ def main():
 
 #have it return a string, representing an easy problem    
 def generateEasy():
-  choice = randint(0,1)  
-  if choice == 0:
-    return balanceProblem()
+  choice = randint(0,2)  
+  if choice == 0 or choice == 1:
+    return weightProblem() #balanceProblem()
   else:
     return weightProblem()
   
  
 def balanceProblem():
-  num1 = randint(0,3)   
+  num1 = randint(1,3)   
   position1 = randint(0,3)
   position2 = 7 - position1
   toReturn = ""
@@ -140,10 +140,10 @@ def balanceProblem():
 
 def weightProblem():
   
-  num1 = randint(0,3)
-  num2 = randint(0,3)
+  num1 = randint(1,3)
+  num2 = randint(1,3)
   while num1 == num2:
-    num2 = randint(0,3)
+    num2 = randint(1,3)
   position1 = randint(0,3)
   position2 = 7 - position1
   toReturn = ""
@@ -166,10 +166,10 @@ def generateMedium():
     return conflictWeight()
 
 
-
+#helper function for generate medium
 def distanceProblem():
 
-  num1 = randint(0,3)   
+  num1 = randint(1,3)   
   position1 = randint(0,3)
   position2 = randint(0,3)
   while position1 == position2:

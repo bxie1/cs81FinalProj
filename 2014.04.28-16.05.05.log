@@ -1,0 +1,15 @@
+Log opened: 2014.04.28-16.05.05
+Experiment name: balLog
+User: tzon1
+Epoch # 0 TSS ERROR: 391.296582535 Correct: 1127 Total Count: 3000 %correct = 0.375666666667
+Epoch # 1 TSS ERROR: 219.408913172 Correct: 1973 Total Count: 3000 %correct = 0.657666666667
+Epoch # 2 TSS ERROR: 194.948632622 Correct: 2139 Total Count: 3000 %correct = 0.713
+Epoch # 3 TSS ERROR: 160.255893479 Correct: 2206 Total Count: 3000 %correct = 0.735333333333
+Epoch # 4 TSS ERROR: 122.913479338 Correct: 2392 Total Count: 3000 %correct = 0.797333333333
+Epoch # 5 TSS ERROR: 128.101717499 Correct: 2515 Total Count: 3000 %correct = 0.838333333333
+Epoch # 6 TSS ERROR: 128.129200644 Correct: 2538 Total Count: 3000 %correct = 0.846
+Epoch # 7 TSS ERROR: 87.9339347076 Correct: 2640 Total Count: 3000 %correct = 0.88
+Epoch # 8 TSS ERROR: 94.3923396786 Correct: 2664 Total Count: 3000 %correct = 0.888
+Epoch # 9 TSS ERROR: 106.157932176 Correct: 2646 Total Count: 3000 %correct = 0.882
+Epoch # 10 TSS ERROR: 106.095630038 Correct: 2666 Total Count: 3000 %correct = 0.888666666667
+Epoch # 11 TSS ERROR: 64.8080990655 Correct: 2784 Total Count: 3000 %correct = 0.928

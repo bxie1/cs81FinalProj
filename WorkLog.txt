@@ -16,3 +16,8 @@ POA for organizing the training set data into different classification problems;
 4/25
 Removing sweep;
 Need to reimplement the shuffling
+
+4/28
+Graphs seem to work.
+Want to find a way to display the neural network.
+
